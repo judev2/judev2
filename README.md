@@ -1,5 +1,5 @@
 - 👋 Hi, I’m June
-- 👀 I’m interested in Anything in android 
+- 👀 I’m interested in Anything about android development 
 - 🌱 I’m currently learning Android jetpack compose
 - 📫 How to reach me https://twitter.com/June5JuneGo
 
